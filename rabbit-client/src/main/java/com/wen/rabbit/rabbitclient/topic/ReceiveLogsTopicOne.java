@@ -14,6 +14,7 @@ public class ReceiveLogsTopicOne {
     ConnectionFactory factory = new ConnectionFactory();
     factory.setHost("localhost");
 
+
     Connection connection = factory.newConnection();
     Channel channel = connection.createChannel();
 
