@@ -1,3 +1,3 @@
 # mq-final
 
-### rabbitmq demo
+### mq demo
